@@ -6,7 +6,7 @@ import { useTranslation } from "react-i18next";
 
 const inter = Inter({ subsets: ['latin'] })
 import React from 'react';
-import i18n from './i18n';
+import i18n from '../i18n';
 import { withNamespaces } from 'react-i18next';
 
 export default function App () {
